@@ -1,5 +1,5 @@
 # Projeto 
-* Este projeto é um bot do Discord que utiliza um webhook para enviar informações sobre o status de stamina de um jogo
+* Este projeto é um bot do Discord que utiliza um webhook para enviar informações sobre o status de stamina do jogo Honkai: Star Rail
 ### Funcionalidades 
 * Faz uma requisição na API para obter os dados da stamina atual e da stamina maxima
 * Calcula o tempo de recuperação da stamina
