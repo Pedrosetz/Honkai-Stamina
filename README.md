@@ -9,5 +9,5 @@
 * Usei a biblioteca Jackson para a manipulação de Json em Java.
 * Utilizei o HttpClient para realizar requisições
 * Gson utilizado para a manipulação de JSON
-
+### Imagem
 ![](https://media.discordapp.net/attachments/1268001346930606163/1281325969260548146/image.png?ex=66db4f4c&is=66d9fdcc&hm=020ae37eea6579a9b22a39b49c86a51d4defbacf5341b8b1959d3325e52bc3b3&=&format=webp&quality=lossless)
