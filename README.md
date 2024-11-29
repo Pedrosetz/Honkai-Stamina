@@ -9,4 +9,4 @@
 * Utilizei o HttpClient para realizar requisições
 * Gson utilizado para a manipulação de JSON
 ### Imagem
-![](https://cdn.discordapp.com/attachments/1277798579469025333/1299742086286807101/image.png?ex=671e4ea5&is=671cfd25&hm=3a041fb9320223ea7ce52ef5a2b6acfb9eed0d6da639c97a8ac15f67ba4c6ffc&)
+![](https://github.com/user-attachments/assets/8d4d1cbd-4f1c-45e5-958f-32e3b7654cff)
